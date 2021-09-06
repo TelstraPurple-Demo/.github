@@ -1,0 +1,17 @@
+{
+    "name": "T-Purple Demo Workflow",
+    "description": "T-Purple Org CI workflow template.",
+    "iconName": "my-icon",
+    "categories": [
+        "Go",
+        "C#",
+        "Javascript",
+        "PowerShell"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$",
+        ""
+    ]
+}
