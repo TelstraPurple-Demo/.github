@@ -1,9 +1,8 @@
 {
     "name": "T-Purple Demo Workflow",
     "description": "T-Purple Org CI workflow template.",
-    "iconName": "my-icon",
+    "iconName": "my-icon.svg",
     "categories": [
-        "Go",
         "C#",
         "Javascript",
         "PowerShell"
